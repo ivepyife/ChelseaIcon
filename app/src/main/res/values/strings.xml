@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">ChelseaIcon</string>
+    <string name="flag">flag</string>
+    <string name="about">about</string>
+    <string name="name_me">Aditya Johansah</string>
+    <string name="email">adityajohansah@gmail.com</string>
+
+    <!-- just for preview -->
+    <string name="players_name">Players Name</string>
+    <string name="preview">Nationality\nPosition\nMarket Value</string>
+
+    <!-- actual UI -->
+    <string name="nationality">Nationality</string>
+    <string name="position">Position</string>
+    <string name="market_value">Market Value</string>
+    <string name="career">Career</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Cole Palmer</item>
+        <item>Pedro Neto</item>
+        <item>Nicolas Jackson</item>
+        <item>Jadon Sancho</item>
+        <item>Mykhaylo Mudryk</item>
+        <item>Enzo Fernández</item>
+        <item>Levi Colwill</item>
+        <item>Wesley Fofana</item>
+        <item>Marc Cucurella</item>
+        <item>Ben Chilwell</item>
+    </string-array>
+    <string-array name="data_nationality">
+        <item>English</item>
+        <item>Portugal</item>
+        <item>Senegal</item>
+        <item>English</item>
+        <item>Ukraine</item>
+        <item>Argentina</item>
+        <item>English</item>
+        <item>France</item>
+        <item>Spain</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="data_position">
+        <item>AMF/RW/RM</item>
+        <item>RW/RM</item>
+        <item>ST/CF</item>
+        <item>LW/LM</item>
+        <item>LW/LM</item>
+        <item>CM/DMF</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>LB/LCB</item>
+        <item>LB/LCB</item>
+    </string-array>
+    <string-array name="data_market_value">
+        <item>€90.00M</item>
+        <item>€55.00M</item>
+        <item>€40.00M</item>
+        <item>€30.00M</item>
+        <item>€30.00M</item>
+        <item>€75.00M</item>
+        <item>€50.00M</item>
+        <item>€25.00M</item>
+        <item>€30.00M</item>
+        <item>€22.00M</item>
+    </string-array>
+    <string-array name="data_carrier">
+        <item>Began in the Manchester City youth academy, where he honed his skills from 2009 to 2020. His talent quickly became apparent, leading to his senior debut for Manchester City in September 2020. Palmer spent three seasons with City first team, gradually increasing his involvement and gaining valuable experience in high-level competitions. During this time, he contributed to the team domestic and European successes. In the summer of 2023, Palmer made a significant move to Chelsea FC for a reported fee of around £40 million. At Chelsea, he has continued to develop his skills and establish himself as a key player, showcasing his versatility in attacking positions and ability to influence games at the highest level of English and European football.</item>
+        <item>Began in the youth ranks of Braga in Portugal, where he showed early promise. He made his professional debut for Braga B team in 2017, quickly catching the eye of scouts. This led to a move to Italian side Lazio in 2017, though his time there was limited. In 2019, Neto made a significant move to Wolverhampton Wanderers in the English Premier League. At Wolves, he has flourished, becoming a key player known for his dribbling skills, pace, and creativity on the wing. Neto has consistently improved his game, contributing with goals and assists, and has become an integral part of Wolves attacking force. His performances have also earned him caps for the Portuguese national team, marking him as one of Portugal emerging talents in world football.</item>
+        <item>Began in his home country of Senegal with Casa Sports. His potential was quickly recognized, leading to a move to Spanish club Villarreal in 2019. Jackson initially played for Villarreal B team, where he continued to develop his skills and adapt to European football. His impressive performances at the youth level earned him a promotion to Villarreal first team in 2021. Jackson breakthrough came in the 2022-23 season, where he showcased his speed, finishing ability, and versatility in attack. His rapid rise and goal-scoring form caught the attention of several top clubs, ultimately resulting in a transfer to Chelsea in 2023. At Chelsea, Jackson has been working to establish himself in the Premier League, adapting to the physicality and pace of English football while aiming to become a key figure in the team attack.</item>
+        <item>Began in Watford youth academy before he moved to Manchester City esteemed youth setup in 2015. However, seeking a clearer path to first-team football, Sancho made a bold move to Borussia Dortmund in Germany in 2017. At Dortmund, Sancho career took off dramatically. He quickly established himself as one of Europe most exciting young talents, known for his exceptional dribbling, creativity, and goal-scoring ability. His performances in the Bundesliga and Champions League drew widespread acclaim and interest from top clubs across Europe. In 2021, Sancho returned to England with a high-profile transfer to Manchester United. However, his time at United has been challenging, struggling to replicate his Dortmund form consistently. This led to a loan move back to Borussia Dortmund in January 2024, where he aims to rediscover his best form. Despite the setbacks, Sancho remains a highly talented player with the potential to be one of the world best when at his peak.</item>
+        <item>Began in the youth academy of Shakhtar Donetsk in Ukraine. He progressed through the ranks, showing immense potential with his speed, dribbling skills, and ability to beat defenders. Mudryk made his first-team debut for Shakhtar in 2018 but truly broke through in the 2021-22 season. His performances in domestic competitions and particularly in the Champions League caught the eye of football enthusiasts and scouts alike. Mudryk rapid rise to prominence culminated in a high-profile and big-money move to Chelsea in January 2023, making him one of the most expensive Ukrainian players in history. At Chelsea, Mudryk has been adapting to the demands of the Premier League, showing flashes of his potential while working to become a consistent performer at the highest level. His career trajectory has marked him as one of the most exciting young talents in European football, with high expectations for his future development.</item>
+        <item>Began his football journey in the youth ranks of River Plate in Argentina. He made his professional debut for River Plate in 2019 and quickly established himself as a promising talent in Argentine football. Fernández performances caught the eye of European clubs, leading to a transfer to Benfica in Portugal in 2022. At Benfica, Fernández career skyrocketed. He immediately became a key player, showcasing his exceptional passing range, vision, and ability to control the tempo of games. His performances in the Portuguese league and Champions League drew widespread acclaim. After just half a season at Benfica, Fernández became the subject of intense transfer speculation, ultimately resulting in a record-breaking move to Chelsea in January 2023. The transfer made him the most expensive player in British football history. At Chelsea, Fernández has been tasked with being the linchpin of the midfield, demonstrating his skills at the highest level of English and European football. His rapid rise from Argentine prospect to one of the world most expensive midfielders highlights the trajectory of his impressive career.</item>
+        <item>Levi Colwill football journey has been closely tied to Chelsea, having joined the club academy at a young age. He progressed through the youth ranks, impressing coaches with his defensive abilities, composure on the ball, and leadership qualities. Colwill development took a significant step forward when he joined Huddersfield Town on loan for the 2021-22 season. This spell in the Championship provided him with valuable first-team experience, and his performances helped Huddersfield reach the playoff final. Following this successful loan, Colwill spent the 2022-23 season on loan at Brighton and Hove Albion in the Premier League, further honing his skills at the top level. Upon returning to Chelsea for the 2023-24 season, Colwill began to establish himself in the first team, showcasing the potential that had been evident throughout his youth career. His trajectory from academy prospect to first-team player at a top Premier League club highlights his development and the high expectations placed on him as one of England most promising young defenders.</item>
+        <item>Wesley Fofana professional career began with Saint-Étienne in France, where he progressed through the youth ranks before making his first-team debut in 2018. His performances in Ligue 1 quickly caught the eye, showcasing his defensive abilities, reading of the game, and composure beyond his years. Fofana rapid development led to a high-profile move to Leicester City in 2020, where he immediately impressed in the Premier League despite his young age. His performances for Leicester, including in their FA Cup-winning campaign, established him as one of the most promising young defenders in world football. This led to a big-money transfer to Chelsea in 2022, marking him as one of the most expensive defenders in football history. At Chelsea, Fofana has shown flashes of his immense potential, though injuries have somewhat disrupted his progress. Despite these setbacks, he remains highly regarded for his defensive skills and potential to become a world-class center-back.</item>
+        <item>Marc Cucurella career began in Barcelona famed La Masia academy, where he developed his technical skills and tactical understanding. After making a handful of appearances for Barcelona B, Cucurella moved to Eibar on loan in 2018, where he gained valuable first-team experience in La Liga. His performances led to a move to Getafe, initially on loan and then permanently, where he truly established himself as a top-flight player. Cucurella versatility, work rate, and attacking contributions from left-back or left midfield caught the attention of Brighton and Hove Albion, who signed him in 2021. At Brighton, he excelled under Graham Potter management, adapting quickly to the Premier League and becoming one of the league standout full-backs. His impressive season at Brighton led to a high-profile transfer to Chelsea in 2022 for a substantial fee. At Chelsea, Cucurella has been working to establish himself as a regular in a competitive squad, showcasing his versatility across the back line and looking to recapture the form that made him one of the Premier League most sought-after defenders.</item>
+        <item>Ben Chilwell football journey began in Leicester City academy, where he developed into one of England most promising left-backs. He made his professional debut for Leicester in 2015 and gradually established himself as a key player for the team. Chilwell performances in the Premier League, characterized by his attacking prowess, defensive solidity, and excellent crossing ability, earned him recognition at the international level with England. His consistent displays for Leicester, including during their impressive 2019-20 season, attracted interest from top clubs. This led to a high-profile move to Chelsea in 2020, where he quickly became an important part of the team that won the UEFA Champions League in 2021. At Chelsea, Chilwell has continued to showcase his abilities as a modern full-back, contributing both defensively and offensively. Despite facing some injury challenges, particularly a significant ACL injury in the 2021-22 season, Chilwell has shown resilience and remains a key player for both Chelsea and England when fit. His career trajectory from Leicester academy graduate to Champions League winner and England international highlights his status as one of the premier left-backs in world football.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://img.a.transfermarkt.technology/portrait/header/568177-1712320986.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/487465-1709158892.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/776890-1726227971.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/401173-1688564217.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/537860-1681908631.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/648195-1669894717.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/614258-1694614507.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/475411-1683899212.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/284857-1659559729.jpg</item>
+        <item>https://img.a.transfermarkt.technology/portrait/header/316125-1683899136.jpg</item>
+    </string-array>
+</resources>

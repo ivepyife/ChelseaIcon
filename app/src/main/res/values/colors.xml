@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chelsea_blue">#034694</color>
+    <color name="chelsea_red">#EE242C</color>
+    <color name="chelsea_gold">#DBA111</color>
+    <color name="chelsea_light_blue">#6A7AB5</color>
+    <color name="chelsea_gray">#D1D3D4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
